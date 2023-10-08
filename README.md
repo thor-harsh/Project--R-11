@@ -5,4 +5,4 @@
   These measures were used to create a linear discriminant model to classify the species. The dataset is often used in data mining, classification and clustering examples and to test algorithms.
 </table>
 
-**So what are you waiting for..?Jump to the code to get started to learn this stuff and make this amazing project.As usual for any doubt or suggestion see you in pull request section 😁😂.Thanks!**
+**So what are you waiting for..? Jump to the code to get started to learn this stuff and make this amazing project.As usual for any doubt or suggestion see you in pull request section 😁😂.Thanks!**
